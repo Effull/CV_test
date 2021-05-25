@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+/* to be able to push down the footer */
+
+html,
+body {
+	scroll-behavior: smooth;
+	height: 100%;
+	min-height: 100%;
+	margin-bottom: 185px;
+}
+
+.profile{
+    background-color: antiquewhite;
+}
+
+.education{
+    background-color: aqua;
+}
+
+.job-experience{
+    background-color: blue;
+}
+
+.postives{
+    background-color: blueviolet;
+}
+
+.would-like-to-lean{
+    background-color: brown;
+}
+
+.reference{
+    background-color: chartreuse;
+}
+
