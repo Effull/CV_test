@@ -12,30 +12,53 @@ body {
 	height: 100%;
 	min-height: 100%;
 	margin-bottom: 185px;
+	background-color: antiquewhite;
 }
 
 .profile{
-    background-color: antiquewhite;
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
+
+h1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+p{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+table{
+	padding-bottom: 10px;
+}
+
+.info{
+	padding-left: 10px;
+	padding-bottom: 10px;
 }
 
 .education{
-    background-color: aqua;
+
 }
 
 .job-experience{
-    background-color: blue;
+
 }
 
 .postives{
-    background-color: blueviolet;
+
 }
 
 .would-like-to-lean{
-    background-color: brown;
+
 }
 
 .reference{
-    background-color: chartreuse;
+
 }
 
 
